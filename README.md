@@ -10,8 +10,6 @@ https://www.loom.com/share/c090fc0be275462ca6b3d59ad4e010b6
 
 <img width="1157" height="814" alt="image" src="https://github.com/user-attachments/assets/d32069e3-fc5b-459b-bb00-d817c369cf54" />
 
-## my Notes
-
 ## Features:
 
 Input an address of a residential or commercial real estate ->  output Investment Memo
