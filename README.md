@@ -2,6 +2,9 @@
 
 A simple Jupyter notebook-based system for Philadelphia real estate investment analysis using AI agents and web search.
 
+## Demo
+https://www.loom.com/share/c090fc0be275462ca6b3d59ad4e010b6
+
 ## Quick Start
 
 ```bash
