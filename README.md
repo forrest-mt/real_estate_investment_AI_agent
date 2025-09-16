@@ -61,11 +61,9 @@ The agent will automatically:
 
 ## Philadelphia Market Assumptions
 
-- Property tax rate: 0.6138%
 - Vacancy rate: 8%
 - Maintenance: 10% of rental income
 - Capital reserves: 10% of rental income
-- Insurance: 15% of rental income
 
 ## Requirements
 
