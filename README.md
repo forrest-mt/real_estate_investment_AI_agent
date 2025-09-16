@@ -4,9 +4,13 @@ A simple Jupyter notebook-based system for Philadelphia real estate investment a
 
 ## Demo
 
+<img width="1082" height="674" alt="image" src="https://github.com/user-attachments/assets/ff28c737-e0d4-4b08-be08-cf3d370f1ea5" />
+https://www.loom.com/share/c090fc0be275462ca6b3d59ad4e010b6
+
+## Screenshot
+
 <img width="1157" height="814" alt="image" src="https://github.com/user-attachments/assets/d32069e3-fc5b-459b-bb00-d817c369cf54" />
 
-https://www.loom.com/share/c090fc0be275462ca6b3d59ad4e010b6
 
 ## Quick Start
 
